@@ -1,0 +1,138 @@
+{
+  "category": [
+    {
+      "id": 1,
+      "title": "phone",
+      "prefix": "phone",
+      "img": "https://cdn-eu.dynamicyield.com/api/9876644/images/cfb357649428__hp-w12-22032022-h_m-men.jpg"
+    },
+    {
+      "id": 2,
+      "title": "laptop",
+      "prefix": "laptop",
+      "img": "https://cdn-eu.dynamicyield.com/api/9876644/images/30d354267a09b__hp-w12-22032022-h_m-women_dresses.jpg"
+    },
+    {
+      "id": 3,
+      "title": "desktop",
+      "prefix": "desktop",
+      "img": "https://cdn-eu.dynamicyield.com/api/9876644/images/37d243d334c63__hp-w12-22032022-h_m-kids1.jpg"
+    },
+    {
+      "id": 4,
+      "title": "watch",
+      "prefix": "watch",
+      "img": "https://cdn-eu.dynamicyield.com/api/9876644/images/28948d47ae6e8__h_m-w39-28092022-4066c-1x1.jpg"
+    },
+    {
+      "id": 5,
+      "title": "tv",
+      "prefix": "tv",
+      "img": "https://cdn-eu.dynamicyield.com/api/9876644/images/1dda9ae79a671__h_m-w40-06102022-7416b-1x1.jpg"
+    },
+    {
+      "id": 6,
+      "title": "accesories",
+      "prefix": "accesories",
+      "img": "https://cdn-eu.dynamicyield.com/api/9876644/images/1dda9ae79a671__h_m-w40-06102022-7416b-1x1.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "phone",
+      "price": 249.0,
+      "cat_prefix": "phone",
+      "img": "https://eg.hm.com/assets/styles/HNM/14482498/6103a8463876770c30cdba3535b7be1f333315fe/2/image-thumb__3464789__product_listing/cb91f8f128ac2125e0ec3a008a2e8d2497d15434.jpg",
+      "max": 4
+    },
+    {
+      "id": 2,
+      "title": "laptop",
+      "price": 229.0,
+      "cat_prefix": "laptop",
+      "img": "https://eg.hm.com/assets/styles/HNM/14482498/6103a8463876770c30cdba3535b7be1f333315fe/2/image-thumb__3464789__product_listing/cb91f8f128ac2125e0ec3a008a2e8d2497d15434.jpg",
+      "max": 4
+    },
+    {
+      "id": 3,
+      "title": "desktop",
+      "price": 200.0,
+      "cat_prefix": "desktop",
+      "img": "https://eg.hm.com/assets/styles/HNM/13994073/eeb1d90c4764366000eb8b8571396e81f0de5c44/2/image-thumb__3142108__product_listing/4d6db9e8f936d3d82b13bc5861b0310fa214c74d.jpg",
+      "max": 3
+    },
+    {
+      "id": 4,
+      "title": "watch",
+      "price": 100.0,
+      "cat_prefix": "watch",
+      "img": "https://eg.hm.com/assets/styles/HNM/13650519/6cc34f51caee1d6cfe776b933d667075fa30d90d/2/image-thumb__2888777__product_listing/16c27492b022ac2eef03853f85d5b279a29ebeed.jpg",
+      "max": 2
+    },
+    {
+      "id": 5,
+      "title": "tv",
+      "price": 300.0,
+      "cat_prefix": "tv",
+      "img": "https://eg.hm.com/assets/styles/HNM/12652575/3e316aab8ce1b596545d144d0efd362975b3856f/2/image-thumb__1998684__product_listing/48756e509aa05341e4a618ba4c1b0a5ce24ebcae.jpg",
+      "max": 3
+    },
+    {
+      "id": 6,
+      "title": "accesories",
+      "price": 300.0,
+      "cat_prefix": "accesories",
+      "img": "https://eg.hm.com/assets/styles/HNM/14478215/543d925539f4a3b92a79df2dfe46d5d481e1c7ae/2/image-thumb__3463278__product_listing/c1417d02c7a93e6d2aca7965003b4f7d490f0ae8.jpg",
+      "max": 2
+    },
+    {
+      "id": 7,
+      "title": "phone 2",
+      "price": 249.0,
+      "cat_prefix": "phone",
+      "img": "https://eg.hm.com/assets/styles/HNM/14482498/6103a8463876770c30cdba3535b7be1f333315fe/2/image-thumb__3464789__product_listing/cb91f8f128ac2125e0ec3a008a2e8d2497d15434.jpg",
+      "max": 4
+    },
+    {
+      "id": 8,
+      "title": "laptop 2",
+      "price": 229.0,
+      "cat_prefix": "laptop",
+      "img": "https://eg.hm.com/assets/styles/HNM/14482498/6103a8463876770c30cdba3535b7be1f333315fe/2/image-thumb__3464789__product_listing/cb91f8f128ac2125e0ec3a008a2e8d2497d15434.jpg",
+      "max": 4
+    },
+    {
+      "id": 9,
+      "title": "desktop 2",
+      "price": 200.0,
+      "cat_prefix": "desktop",
+      "img": "https://eg.hm.com/assets/styles/HNM/13994073/eeb1d90c4764366000eb8b8571396e81f0de5c44/2/image-thumb__3142108__product_listing/4d6db9e8f936d3d82b13bc5861b0310fa214c74d.jpg",
+      "max": 3
+    },
+    {
+      "id": 10,
+      "title": "watch 2",
+      "price": 100.0,
+      "cat_prefix": "watch",
+      "img": "https://eg.hm.com/assets/styles/HNM/13650519/6cc34f51caee1d6cfe776b933d667075fa30d90d/2/image-thumb__2888777__product_listing/16c27492b022ac2eef03853f85d5b279a29ebeed.jpg",
+      "max": 2
+    },
+    {
+      "id": 11,
+      "title": "tv 2",
+      "price": 300.0,
+      "cat_prefix": "tv",
+      "img": "https://eg.hm.com/assets/styles/HNM/12652575/3e316aab8ce1b596545d144d0efd362975b3856f/2/image-thumb__1998684__product_listing/48756e509aa05341e4a618ba4c1b0a5ce24ebcae.jpg",
+      "max": 3
+    },
+    {
+      "id": 12,
+      "title": "accesories 2",
+      "price": 300.0,
+      "cat_prefix": "accesories",
+      "img": "https://eg.hm.com/assets/styles/HNM/14478215/543d925539f4a3b92a79df2dfe46d5d481e1c7ae/2/image-thumb__3463278__product_listing/c1417d02c7a93e6d2aca7965003b4f7d490f0ae8.jpg",
+      "max": 2
+    }
+  ]
+}
